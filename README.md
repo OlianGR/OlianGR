@@ -3,9 +3,9 @@
 
 <br>
 
-I'm passionate about creating useful applications with accessible, scalable, and user-centered interfaces.
+I'm passionate about creating useful applications featuring, scalable, and user-centered interfaces.
 
-I work in frontend, backend, and cloud.
+I work on frontend, backend, and cloud.
 
 In my free time, I enjoy going to the gym, surfing, reading, and watching Netflix.
 
