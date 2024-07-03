@@ -12,6 +12,7 @@ In my free time, I enjoy going to the gym, surfing, reading, and watching TV.
 Feel free to reach out if you have any projects in mind.
 
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/oliandev97@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:oliandev97@mgmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angel_garcía_ruano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angelgarciaruano)
 
 <!--
 **OlianGR/OlianGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
