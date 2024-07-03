@@ -7,7 +7,7 @@ I'm passionate about creating useful applications with accessible, scalable, and
 
 I work in frontend, backend, and cloud.
 
-In my free time, I enjoy going to the gym, surfing, reading, and watching TV.
+In my free time, I enjoy going to the gym, surfing, reading, and watching Netflix.
 
 Feel free to reach out if you have any projects in mind.
 
